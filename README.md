@@ -1,5 +1,5 @@
 # Polls
-Um site simples de enquentes feito em Python.
+Um site de enquentes feito em Python.
 
 * Site simples usado no tutorial do site do framework Django.
 
@@ -13,12 +13,3 @@ Um site simples de enquentes feito em Python.
     - Aplique as solicitações de migration para poder utilizar os models do projetos.
 
     - Basicamente isso, aplique o "python manage.py runserver" para iniciar.
-
-* Ideias a se considerar:
-    - Remover os diversos bugs.
-    
-    - O voto não está registrando no servidor, provavelmente por conta de implementação obsoleta.
-
-    - Mais recursos para um usuário, já que o site só é bem usável por admin.
-
-    - Ajustes nos arquivos estáticos e templates, está tudo feito de qualquer jeito.
